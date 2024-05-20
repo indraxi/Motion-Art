@@ -256,18 +256,21 @@ a{
 .icon1{
     margin-left: 50px;
     padding-left:250px;
+    color:azure;
 }
 .icon2{
     padding-left:650px;
     position: relative;
-    top:-88px;
+    top:-138px;
+    color:azure;
 }
 .icon3{
     padding-left:250px;
     float:right;
     margin-right:250px;
     position: relative;
-    top:-185px;
+    top:-280px;
+    color:azure;
 }
 .wand{
     float:right;
